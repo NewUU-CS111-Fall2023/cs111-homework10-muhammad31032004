@@ -4,7 +4,7 @@
  * Name: hw-10
  */
 
-class Solution {
+class Problem6 {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         vector<pair<int,int>>adj[n+1];
