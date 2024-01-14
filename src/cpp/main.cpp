@@ -13,6 +13,10 @@
 #include "task_4.cpp"
 #include "task_5.cpp"
 #include "task_6.cpp"
+#include "task_7.cpp"
+#include "task_8.cpp"
+#include "task_9.cpp"
+#include "task_10.cpp"
 
 using namespace std;
 
