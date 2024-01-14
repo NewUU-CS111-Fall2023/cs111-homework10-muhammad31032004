@@ -1,9 +1,9 @@
 /*
  USE THIS FILE FOR YOUR TESTS,
  AUTOGRADER WILL NOT EXECUTE THIS FILE.
- * Author:
- * Date:
- * Name:
+ * Author: Mukhammadkhon Asrorov
+ * Date: 14/01/2024
+ * Name: hw-10
  */
 
 #include <iostream>
