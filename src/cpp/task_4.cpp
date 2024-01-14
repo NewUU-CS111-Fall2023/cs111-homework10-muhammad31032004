@@ -33,7 +33,7 @@ void multiplyNumbers(string& tape) {
                     head++;
                     currentState = Q1;
                 } else {
-                    currentState = Q7;  // Invalid input
+                    currentState = Q7;
                 }
                 break;
 
