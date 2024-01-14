@@ -31,7 +31,7 @@ void compareNumbers(string& tape) {
                     head++;
                     currentState = Q1;
                 } else {
-                    currentState = Q5;  // Invalid input
+                    currentState = Q5; 
                 }
                 break;
 
